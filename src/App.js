@@ -16,11 +16,11 @@ function App() {
               <a href="" className="Btn">My Info</a>
             </div>
           </div>
-          <h1 className='Me'>Home</h1>
+          <h1 className='Me'>Does this WOrk?</h1>
         </div>
 
         <div className='Main'>
-          
+
         </div>
 
 
